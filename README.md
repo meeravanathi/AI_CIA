@@ -6,11 +6,12 @@ The British Museum Search algorithm is a graph traversal method designed to find
 Breadth-First Search (BFS) is an algorithm for traversing or searching tree or graph data structures. It explores all neighbor nodes at the present depth before moving on to nodes at the next depth level, ensuring the shortest path in unweighted graphs.
 
 ![Screenshot 2024-10-18 104000](https://github.com/user-attachments/assets/06c05f5b-68d9-446c-87c3-50016b4fd4b5)
+## Depth-First Search (DFS)
+Depth-First Search (DFS) is an algorithm for traversing or searching tree or graph data structures. It explores as far as possible along each branch before backtracking, making it useful for tasks like pathfinding and topological sorting.
 
-![Screenshot 2024-10-18 103459](https://github.com/user-attachments/assets/a30ab57a-b3fe-438f-a576-e0d657df3894)!
+![Screenshot 2024-10-18 103459](https://github.com/user-attachments/assets/a30ab57a-b3fe-438f-a576-e0d657df3894)
 
-
-[Screenshot 2024-10-18 100353](https://github.com/user-attachments/assets/6f05d238-851d-4855-93c3-9fe85ab49945)![Screenshot 2024-10-18 094830](https://github.com/user-attachments/assets/014cd2eb-1f8e-44cc-a5b9-74d900ba9061)
+![Screenshot 2024-10-18 094830](https://github.com/user-attachments/assets/014cd2eb-1f8e-44cc-a5b9-74d900ba9061)
 
 
 ![Screenshot 2024-10-18 100353](https://github.com/user-attachments/assets/081a51cd-8542-450a-bb82-34262637fdb8)
