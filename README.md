@@ -1,3 +1,4 @@
+###ALGORITHMS
 ## British Museum Search
 The British Museum Search algorithm is a graph traversal method designed to find all possible paths between nodes in a graph. It uses either depth-first or breadth-first search strategies to explore the graph systematically, ensuring comprehensive exploration of all routes.
 
@@ -38,7 +39,7 @@ Branch and Bound with Extended List is an optimization technique that enhances t
 ## A*
 A* is a popular pathfinding and graph traversal algorithm that combines the benefits of Dijkstra's algorithm and a heuristic approach, efficiently finding the shortest path by minimizing the total estimated cost from the start node to the goal.
 
-![Screenshot 2024-10-18 104000](https://github.com/user-attachments/assets/d7274605-2474-4728-8af2-bae73c017ead)
+![Screenshot 2024-10-18 105153](https://github.com/user-attachments/assets/094ece7d-a307-4fe7-8ea9-fe1882ec8998)
 ## AO*
 AO* is a search algorithm used for solving problems with AND/OR graph structures, focusing on minimizing the total cost while exploring paths that involve both AND and OR nodes, effectively managing uncertainty in branching decisions.
 
