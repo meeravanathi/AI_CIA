@@ -1,10 +1,14 @@
 ## British Museum Search
 The British Museum Search algorithm is a graph traversal method designed to find all possible paths between nodes in a graph. It uses either depth-first or breadth-first search strategies to explore the graph systematically, ensuring comprehensive exploration of all routes.
 
-![Screenshot 2024-10-18 094830](https://github.com/user-attachments/assets/2f61927a-e0af-407b-9c35-453cca12ad12)![Screenshot 2024-10-18 104000](https://github.com/user-attachments/assets/06c05f5b-68d9-446c-87c3-50016b4fd4b5)![Screenshot 2024-10-18 103459](https://github.com/user-attachments/assets/a30ab57a-b3fe-438f-a576-e0d657df3894)!
-
+![Screenshot 2024-10-18 094830](https://github.com/user-attachments/assets/2f61927a-e0af-407b-9c35-453cca12ad12)
 ## Breadth-First Search (BFS)
 Breadth-First Search (BFS) is an algorithm for traversing or searching tree or graph data structures. It explores all neighbor nodes at the present depth before moving on to nodes at the next depth level, ensuring the shortest path in unweighted graphs.
+
+![Screenshot 2024-10-18 104000](https://github.com/user-attachments/assets/06c05f5b-68d9-446c-87c3-50016b4fd4b5)
+
+![Screenshot 2024-10-18 103459](https://github.com/user-attachments/assets/a30ab57a-b3fe-438f-a576-e0d657df3894)!
+
 
 [Screenshot 2024-10-18 100353](https://github.com/user-attachments/assets/6f05d238-851d-4855-93c3-9fe85ab49945)![Screenshot 2024-10-18 094830](https://github.com/user-attachments/assets/014cd2eb-1f8e-44cc-a5b9-74d900ba9061)
 
