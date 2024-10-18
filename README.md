@@ -1,4 +1,4 @@
-###ALGORITHMS
+### ALGORITHMS
 ## British Museum Search
 The British Museum Search algorithm is a graph traversal method designed to find all possible paths between nodes in a graph. It uses either depth-first or breadth-first search strategies to explore the graph systematically, ensuring comprehensive exploration of all routes.
 
