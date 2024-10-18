@@ -22,11 +22,26 @@ Beam Search is an optimization of the breadth-first search algorithm that explor
 Oracle Search is a search algorithm that utilizes an "oracle" or an external knowledge source to guide the search process. The oracle provides insights or recommendations about which paths to explore, enabling the algorithm to focus on more promising options and improve efficiency in finding solutions, often used in optimization and decision-making problems.
 
 ![Screenshot 2024-10-18 103459](https://github.com/user-attachments/assets/4bb8b01d-5b85-414b-8402-73c066cbb050)
+## Oracle Search with Cost Heuristics
+Oracle Search with Cost Heuristics is an advanced search algorithm that utilizes an oracle to provide guidance based on cost evaluations. The oracle not only recommends paths to explore but also incorporates cost heuristics to estimate the remaining effort required to reach the goal. This combination enhances the search efficiency by prioritizing paths with lower expected costs, making it particularly effective in optimization problems and decision-making scenarios.
+
 
 ![Screenshot 2024-10-18 104000](https://github.com/user-attachments/assets/df6fd67a-7dee-4d44-80a3-60da604a0dfe)
+## Branch and Bound
+Branch and Bound is an optimization algorithm used for solving combinatorial and discrete optimization problems. It systematically explores branches of a tree by dividing the problem into smaller subproblems (branching) and calculating bounds on the best possible solution in each subproblem to eliminate those that cannot yield a better solution than the current best (bounding). This method is effective for finding optimal solutions while minimizing the search space.
+
 ![Screenshot 2024-10-18 104403](https://github.com/user-attachments/assets/a82f1e8f-4932-4102-b65d-d3203879c4cc)
+## Branch and Bound with Extended List
+Branch and Bound with Extended List is an optimization technique that enhances the standard Branch and Bound algorithm by maintaining an extended list of candidate solutions to efficiently explore and prune the search space, ensuring the optimal solution is found while reducing unnecessary computations.
+
 ![Screenshot 2024-10-18 104750](https://github.com/user-attachments/assets/388cfda5-18be-4f02-803f-d874d85257db)
+## A*
+A* is a popular pathfinding and graph traversal algorithm that combines the benefits of Dijkstra's algorithm and a heuristic approach, efficiently finding the shortest path by minimizing the total estimated cost from the start node to the goal.
+
 ![Screenshot 2024-10-18 103205](https://github.com/user-attachments/assets/c639bb58-3fd5-44f4-8a3d-491d9b556648)
+## AO*
+AO* is a search algorithm used for solving problems with AND/OR graph structures, focusing on minimizing the total cost while exploring paths that involve both AND and OR nodes, effectively managing uncertainty in branching decisions.
+
 ![Upload![Screenshot 2024-10-18 100903](https://github.com/user-attachments/assets/e8d5d302-a168-4518-828e-6d0f20b96d04)
 ![Screenshot 2024-10-18 104000](https://github.com/user-attachments/assets/d7274605-2474-4728-8af2-bae73c017ead)
 ![Screenshot 2024-10-18 100903](https://github.com/user-attachments/assets/4a7d2956-272e-44e3-9d03-22f4f9f547d3)
