@@ -9,12 +9,10 @@ Breadth-First Search (BFS) is an algorithm for traversing or searching tree or g
 ## Depth-First Search (DFS)
 Depth-First Search (DFS) is an algorithm for traversing or searching tree or graph data structures. It explores as far as possible along each branch before backtracking, making it useful for tasks like pathfinding and topological sorting.
 
-![Screenshot 2024-10-18 103459](https://github.com/user-attachments/assets/a30ab57a-b3fe-438f-a576-e0d657df3894)
-
-![Screenshot 2024-10-18 094830](https://github.com/user-attachments/assets/014cd2eb-1f8e-44cc-a5b9-74d900ba9061)
-
-
 ![Screenshot 2024-10-18 100353](https://github.com/user-attachments/assets/081a51cd-8542-450a-bb82-34262637fdb8)
+## Hill Climbing
+Hill Climbing is a local search algorithm that continuously moves towards the direction of increasing elevation or value to find the peak or optimal solution. It is often used in optimization problems but can get stuck in local maxima.
+
 ![Screenshot 2024-10-18 100903](https://github.com/user-attachments/assets/ab43ec71-de80-4bf9-8ba1-29a1a6872809)
 ![Screenshot 2024-10-18 103205](https://github.com/user-attachments/assets/a15a70e8-ca13-4aea-86be-96915da69346)
 ![Screenshot 2024-10-18 103459](https://github.com/user-attachments/assets/4bb8b01d-5b85-414b-8402-73c066cbb050)
