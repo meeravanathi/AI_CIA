@@ -14,8 +14,15 @@ Depth-First Search (DFS) is an algorithm for traversing or searching tree or gra
 Hill Climbing is a local search algorithm that continuously moves towards the direction of increasing elevation or value to find the peak or optimal solution. It is often used in optimization problems but can get stuck in local maxima.
 
 ![Screenshot 2024-10-18 100903](https://github.com/user-attachments/assets/ab43ec71-de80-4bf9-8ba1-29a1a6872809)
+## Beam Search
+Beam Search is an optimization of the breadth-first search algorithm that explores a graph by expanding the most promising nodes within a limited set (the "beam"). It maintains a fixed number of best candidates at each level, reducing memory consumption while sacrificing completeness.
+
 ![Screenshot 2024-10-18 103205](https://github.com/user-attachments/assets/a15a70e8-ca13-4aea-86be-96915da69346)
+## Oracle Search
+Oracle Search is a search algorithm that utilizes an "oracle" or an external knowledge source to guide the search process. The oracle provides insights or recommendations about which paths to explore, enabling the algorithm to focus on more promising options and improve efficiency in finding solutions, often used in optimization and decision-making problems.
+
 ![Screenshot 2024-10-18 103459](https://github.com/user-attachments/assets/4bb8b01d-5b85-414b-8402-73c066cbb050)
+
 ![Screenshot 2024-10-18 104000](https://github.com/user-attachments/assets/df6fd67a-7dee-4d44-80a3-60da604a0dfe)
 ![Screenshot 2024-10-18 104403](https://github.com/user-attachments/assets/a82f1e8f-4932-4102-b65d-d3203879c4cc)
 ![Screenshot 2024-10-18 104750](https://github.com/user-attachments/assets/388cfda5-18be-4f02-803f-d874d85257db)
